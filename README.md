@@ -12,3 +12,5 @@ This Repo Contains All Tools In DevOps
 ### Nagios
 ### Prometheus
 ### Grafana
+### Shell Scriting
+### Python Scripting
